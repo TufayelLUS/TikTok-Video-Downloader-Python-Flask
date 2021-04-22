@@ -1,4 +1,4 @@
-# TikTok Video Downloader Python using Flask
+# TikTok Video Downloader in Python using Flask Framework
 A simple tiktok video downloader using python flask web app framework that actually works but with watermarks!
 # Screenshot
 <img src="https://raw.githubusercontent.com/TufayelLUS/TikTok-Video-Downloader-Python-Flask/master/Screenshot.PNG" alt="Interface" /><br>
